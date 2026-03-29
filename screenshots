@@ -1,1 +1,22 @@
 screenshots/placeholder.txt
+## 📸 Screenshots
+
+### 🔹 Successful Domain Connectivity
+
+![Ping Success](screenshots/ping-success.png)
+Demonstrates successful DNS resolution and communication with the domain controller.
+
+### 🔹 Group Policy Update
+
+![GPO Success](screenshots/gpupdate-success.png)
+Shows successful application of Group Policy after troubleshooting.
+
+### 🔹 Password Policy Enforcement
+
+![Password Error](screenshots/password-policy-error.png)
+Illustrates domain password complexity requirements.
+
+### 🔹 User Creation
+
+![User Created](screenshots/user-created.png)
+Demonstrates successful domain user creation using CLI.
